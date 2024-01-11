@@ -1,0 +1,4786 @@
+# depslib dependency file v1.0
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647178750 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\color.h
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\files.h
+	<string>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image.cpp
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp2\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663761891 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663761901 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663760820 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663760820 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663760820 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663760820 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1666162448 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666162468 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1666162489 source:u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\viewer_etudiant.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer_etudiant.h"
+
+1666162504 u:\tp_info_graph\libgraphique_tp2\gkit2light\src\l2_lifgfx\viewer_etudiant.h
+	"Viewer.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647178750 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\color.h
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\files.h
+	<string>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image.cpp
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647178752 u:\tp_info_graph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663761786 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663761786 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663761891 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663761901 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663760820 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663760820 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663760820 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663760820 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663760820 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1666162448 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666162468 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1666262889 source:u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer_etudiant.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer_etudiant.h"
+
+1666262889 u:\tp_info_graph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer_etudiant.h
+	"Viewer.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647175150 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\color.h
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\files.h
+	<string>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image.cpp
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663758291 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663758301 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1666158848 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666158868 c:\users\etulyon1\desktop\2_infograph\libgraphique_tp3\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647175150 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1669833771 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\color.h
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\files.h
+	<string>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image.cpp
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1669834090 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663758291 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663758301 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1669834710 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666158868 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1669849519 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\viewer_etudiant.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"wavefront.h"
+	"orbiter.h"
+	"mesh.h"
+	"wavefront_fast.h"
+	"draw.h"
+	"Viewer_etudiant.h"
+
+1669848343 c:\users\etulyon1\desktop\2_infograph\libgraphique_projet\gkit2light\src\l2_lifgfx\viewer_etudiant.h
+	"Viewer.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647175150 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1669833771 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\color.h
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\files.h
+	<string>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image.cpp
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647175152 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1669834090 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663758186 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663758186 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663758291 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663758301 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663757220 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663757220 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1670442002 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666158868 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1670458418 source:c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer_etudiant.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+	"wavefront.h"
+	"orbiter.h"
+	"mesh.h"
+	"wavefront_fast.h"
+	"draw.h"
+	"Viewer_etudiant.h"
+
+1670458439 c:\users\etulyon1\desktop\2_infograph\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer_etudiant.h
+	"Viewer.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app.cpp
+	<cstdio>
+	<cstring>
+	"app.h"
+	"glcore.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app.h
+	"window.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1647175150 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\gl\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app_camera.cpp
+	"app_camera.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app_camera.h
+	"app.h"
+	"orbiter.h"
+
+1669833771 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\mat.h
+	"vec.h"
+	<iostream>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app_time.cpp
+	<cstdio>
+	"app_time.h"
+	"texture.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\app_time.h
+	<chrono>
+	"glcore.h"
+	"app.h"
+	"text.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\color.h
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image.h
+	<cmath>
+	<cassert>
+	<vector>
+	<algorithm>
+	"color.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\cgltf.cpp
+	"cgltf.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\color.cpp
+	<algorithm>
+	"color.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+	"program.h"
+	"uniforms.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+	"program.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+	"materials.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\materials.h
+	<string>
+	<vector>
+	<cassert>
+	"color.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\uniforms.h
+	<string>
+	<vector>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\envmap.cpp
+	"image_io.h"
+	"image_hdr.h"
+	"envmap.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image_hdr.h
+	"image.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\envmap.h
+	<array>
+	"vec.h"
+	"color.h"
+	"image.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\files.cpp
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string>
+	<algorithm>
+	"files.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\files.h
+	<string>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\framebuffer.cpp
+	<cstdio>
+	<cstring>
+	"glcore.h"
+	"texture.h"
+	"uniforms.h"
+	"framebuffer.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\framebuffer.h
+	<vector>
+	<array>
+	"texture.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\gamepads.cpp
+	<cassert>
+	<vector>
+	<stdio.h>
+	"gamepads.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\gamepads.h
+	<SDL2/SDL.h>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\gltf.cpp
+	<cstdio>
+	<cstring>
+	<cfloat>
+	"files.h"
+	"texture.h"
+	"image_io.h"
+	"cgltf.h"
+	"gltf.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\gltf.h
+	<vector>
+	"vec.h"
+	"color.h"
+	"mesh.h"
+	"image_io.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image.cpp
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image_hdr.cpp
+	<chrono>
+	<cstring>
+	<string>
+	"rgbe.h"
+	"image_hdr.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\rgbe.h
+	<cstdio>
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1647175152 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"vec.h"
+	"mesh.h"
+	"program.h"
+	"uniforms.h"
+	"window.h"
+
+1669834090 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	"program.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\rgbe.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	"rgbe.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+	"window.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<cassert>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\vec.cpp
+	<algorithm>
+	<cmath>
+	"vec.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\wavefront.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\wavefront_fast.cpp
+	<cstdio>
+	<ctype.h>
+	<climits>
+	<map>
+	<algorithm>
+	"files.h"
+	"wavefront.h"
+	"wavefront_fast.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\wavefront_fast.h
+	"mesh.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1663758186 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1663758186 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+	<iostream>
+	<SDL2/SDL_image.h>
+	"glcore.h"
+	"window.h"
+	"files.h"
+
+1663758291 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1663758301 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1663757220 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\fantome.cpp
+	"Fantome.h"
+	<stdlib.h>
+
+1663757220 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\fantome.h
+	"Terrain.h"
+	"Pacman.h"
+
+1663757220 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\terrain.h
+
+1663757220 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\pacman.h
+	"Terrain.h"
+
+1663757220 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\jeu.cpp
+	"Jeu.h"
+
+1663757220 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+	"Fantome.h"
+
+1663757220 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\pacman.cpp
+	"Pacman.h"
+
+1663757220 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\pacman_core\terrain.cpp
+	"Terrain.h"
+	<cassert>
+
+1670442002 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"draw.h"
+	"Viewer.h"
+
+1666158868 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+	"pacman_core/Jeu.h"
+
+1670458533 source:\\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer_etudiant.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+	"wavefront.h"
+	"orbiter.h"
+	"mesh.h"
+	"wavefront_fast.h"
+	"draw.h"
+	"Viewer_etudiant.h"
+
+1670458439 \\teraetu.univ-lyon1.fr\homeetu\p2111020\desktop\libgraphique_officiel\gkit2light\src\l2_lifgfx\viewer_etudiant.h
+	"Viewer.h"
+
