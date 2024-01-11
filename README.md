@@ -25,3 +25,17 @@ Utilisez Premake pour générer les projets en fonction de votre environnement d
 
 Selon votre environnement, ouvrez la solution Visual Studio, le projet Xcode, ou CodeBlocks, et compilez shader_kit ou l'un des tutoriels.
 
+## Exemples de Résultats
+
+![Avatar Pixel Art](data/scene.png)
+
+## Vidéo de Prévisualisation
+
+[![Preview Video](https://img.youtube.com/vi/VLbAq0P2wKM/0.jpg)](https://www.youtube.com/watch?v=VLbAq0P2wKM)
+
+Cliquez sur l'image ci-dessus pour regarder la vidéo de prévisualisation.
+
+## Licence
+
+Ce projet est sous licence GNU AGPLv3. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+
